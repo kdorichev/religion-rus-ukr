@@ -3,6 +3,8 @@
 ##### For *Applied Plotting, Charting & Data Representation in Python* course by the University of Michigan
 https://www.coursera.org/learn/python-plotting/home/welcome
 
+![Religious landscape in Russia and Ukraine](Religious_landscape_Russia_Ukraine.png)
+
 ### Data sources
 1. Russia population: http://www.worldometers.info/world-population/russia-population/
 2. Ukraine population: http://www.worldometers.info/world-population/ukraine-population/
